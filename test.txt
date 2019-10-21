@@ -3,3 +3,4 @@ test before add
 test add before2
 test after add
 test status
+test diff
