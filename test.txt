@@ -6,3 +6,4 @@ test status
 test diff
 test diff HEAD
 test commit -a
+test rm
