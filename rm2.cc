@@ -2,6 +2,7 @@ test amend
 test amend again
 test emand commit
 test git show
+test merge third
 test branch
 test merge in master
 
