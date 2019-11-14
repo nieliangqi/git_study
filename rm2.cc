@@ -12,3 +12,4 @@ test merge second master
 test merge in test
 test merge second test
 test merge second2 test
+test merge third test
